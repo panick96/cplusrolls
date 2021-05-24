@@ -8,7 +8,7 @@ I built some software in C++ to allow you to roll for your character's ability s
 This software rolls four 6-sided dice for you and omits your lowest row. It then adds the other three rolls and then allows you to assign the score to one of your abilities. It is a super fast set up
 for creating your character.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/uUlGpswhEa8)
 
 # Development Environment
 
